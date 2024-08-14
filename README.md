@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muzamil Majeed</h1>
 <h3 align="center">A Beginner in web development</h3>
 <div align="center">
-<img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" alt="Coding Pc" width="500" height="400"> 
+<img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" alt="Coding Pc" width="400" height="300"> 
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muzamil2956&label=Profile%20views&color=0e75b6&style=flat" alt="muzamil2956" /> </p>
 
